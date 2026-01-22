@@ -1,2 +1,4 @@
 # GitExercise
-cool stuff
+kool stuff
+
+This is really kool and awesome!
